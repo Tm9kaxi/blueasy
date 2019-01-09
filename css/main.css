@@ -581,7 +581,7 @@ header {
   font-size: 14px;
   padding: 25px 0;
   text-align: center;
-  min-width: 370px;
+  max-width: 370px;
   outline: none;
   border: none;
   display: block;
